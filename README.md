@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunraj751
+- 👋 Hi, I’m Sunraj Sharma
 - 👀 I’m interested in creating businesses based on SaaS model 
 - 🌱 I’m currently learning frontend, backend, and database based languages to build my app 
 - 💞️ I’m looking to collaborate on an app which will people travel in FASTER, BETTER and yet CHEAPER way (NOTHING LIKE UBER!!)
